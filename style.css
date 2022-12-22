@@ -1,0 +1,23 @@
+#b1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 10px solid;
+    padding: 20px
+}
+
+#b2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: 20px solid;
+    margin-left: 257px;
+}
+
+#b3{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 10px solid;
+    margin-left: 495px;
+}
